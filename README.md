@@ -4,7 +4,7 @@ We want a webpage to sell books.
 
 For each book we want to show the title, authors, cover image and price.
 
-A book could have a base price and we could add a discount in a date range.
+A book have regular price and we could apply a discount in a date range.
 
 For example:
 
