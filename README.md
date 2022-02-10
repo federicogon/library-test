@@ -11,6 +11,7 @@ For example:
 Book base price is $10 but from 1-1-2023 to 1-31-2023 the price is $7
 
 
+*TODO*
 
 1) Create a gallery to show the books
 2) Create a CRUD for books
